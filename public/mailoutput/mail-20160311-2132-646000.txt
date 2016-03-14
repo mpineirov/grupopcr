@@ -1,0 +1,15 @@
+To: pablo.montes@gmail.com
+Subject: Your Password Reset Link
+Message-ID: <7535af95ee17ae27936a9f92ab626975@localhost>
+Date: Fri, 11 Mar 2016 21:32:15 +0000
+From: prueba <developer.pruebas.makeit@gmail.com>
+MIME-Version: 1.0
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+Click here to reset your password: <a href=3D"http://localhost:8000/passwor=
+d/reset/56c9a263afe7ec774ce401193d636f4d17c34fcdbac21ac16361ad180dfa3c3e?em=
+ail=3Dpablo.montes%40gmail.com"> http://localhost:8000/password/reset/56c9a=
+263afe7ec774ce401193d636f4d17c34fcdbac21ac16361ad180dfa3c3e?email=3Dpablo.m=
+ontes%40gmail.com </a>
+

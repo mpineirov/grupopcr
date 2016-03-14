@@ -1,0 +1,15 @@
+To: yair.rodriguez1000@gmail.com
+Subject: Your Password Reset Link
+Message-ID: <facd9fe4e79e1e47d6f766475d723bf1@localhost>
+Date: Fri, 11 Mar 2016 19:58:06 +0000
+From: 
+MIME-Version: 1.0
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+Click here to reset your password: <a href=3D"http://localhost:8000/passwor=
+d/reset/3ce4581e45dac25c793b32d4304fae53c2d655458fa65958424d826eee8acedf?em=
+ail=3Dyair.rodriguez1000%40gmail.com"> http://localhost:8000/password/reset=
+/3ce4581e45dac25c793b32d4304fae53c2d655458fa65958424d826eee8acedf?email=3Dy=
+air.rodriguez1000%40gmail.com </a>
+
